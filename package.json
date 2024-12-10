@@ -1,4 +1,5 @@
 {   "name": "fcc-learn-npm-package-json",
+    "version": "1.0.0",
 	"description": "a project that does nothing yet.",
     "author": "Nicolas Imagawa",
 	"license": "MIT",
